@@ -1,2 +1,2 @@
 # DMOD-Addons
-DMOD is a package Mutiplicator to crash the lobby/island
+DMOD is a packet Mutiplicator to crash the lobby/island
